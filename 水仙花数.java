@@ -8,6 +8,7 @@ public class Test {
             int z = i/100%10;
             if(x*x*x+y*y*y+z*z*z == i){
                 System.out.println(i);
+            
             }
         }
     }
