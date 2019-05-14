@@ -14,6 +14,6 @@ class FruitFactory {
         }else if ("orange".equals(className)) {
             return new Orange() ;
         }
-        return null ;
+        return null;
     }
 }
